@@ -64,15 +64,15 @@ An Arduino-based motion detection alarm system that detects human movement using
 
 ### Hardware Setup
 
-![Setup](images/setup.jpg)
+![setup](images/setup.jpeg)
 
 ### OLED Output
 
-![OLED Output](images/oled_output.jpg)
+![oled output](images/oled_output.jpeg)
 
 ### Working Demo
 
-![Working](images/working.jpg)
+![working](images/working.jpeg)
 
 ---
 
